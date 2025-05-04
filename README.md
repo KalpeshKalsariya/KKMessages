@@ -82,10 +82,7 @@ You can choose whether to dismiss alerts when the user taps or swipes the alert.
 **3. ViewController.swift:**
 Contains the UI for triggering the alert, which includes a button that shows an alert when pressed.
 
-
-# KKMessages - Custom Alert System
-
-## Alert Types - Screenshots
+# Alert Types - Screenshots
 
 | Success Alert       | Error Alert       | Warning Alert      | Information Alert  | Custom Alert      |
 |---------------------|-------------------|--------------------|--------------------|-------------------|
