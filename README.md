@@ -85,9 +85,7 @@ Contains the UI for triggering the alert, which includes a button that shows an 
 
 # KKMessages - Custom Alert System
 
-## Screenshots
-
-### Example Alert Types
+## Alert Types - Screenshots
 
 | Success Alert       | Error Alert       | Warning Alert      | Information Alert  | Custom Alert      |
 |---------------------|-------------------|--------------------|--------------------|-------------------|
