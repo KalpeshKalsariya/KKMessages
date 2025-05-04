@@ -84,12 +84,13 @@ Contains the UI for triggering the alert, which includes a button that shows an 
 
 # Alert Types - Screenshots
 
-| Success Alert       | Error Alert       | Warning Alert      | Information Alert  | Custom Alert      |
-|---------------------|-------------------|--------------------|--------------------|-------------------|
-|![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 32 22](https://github.com/user-attachments/assets/7088fc84-523d-4b1a-8321-9564a681a38d)|  ![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 34 10](https://github.com/user-attachments/assets/b76cd8c4-68e7-435e-8088-697fb2c52875)|![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 34 26](https://github.com/user-attachments/assets/353d613d-cf89-4c9b-aafc-b5d2b5497f54)|![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 36 59](https://github.com/user-attachments/assets/6a5b19c5-35d6-4e9a-81f6-9f859da14db8)|![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 37 14](https://github.com/user-attachments/assets/8a26cec5-ca39-43d2-a77f-71c1603d3717)|
+| Success Alert       | Error Alert       |
+|---------------------|-------------------|
+| ![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 32 22](https://github.com/user-attachments/assets/7088fc84-523d-4b1a-8321-9564a681a38d) | ![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 34 10](https://github.com/user-attachments/assets/b76cd8c4-68e7-435e-8088-697fb2c52875) |
 
-
-
+| Warning Alert      | Information Alert  |
+|--------------------|--------------------|
+| ![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 34 26](https://github.com/user-attachments/assets/353d613d-cf89-4c9b-aafc-b5d2b5497f54) | ![Simulator Screenshot - iPhone 16 Pro - 2025-05-04 at 13 36 59](https://github.com/user-attachments/assets/6a5b19c5-35d6-4e9a-81f6-9f859da14db8) | 
 
 # Customization:
 `Alert Type:` The AlertType enum gives you the flexibility to customize the alert type (Success, Error, etc.). You can change the alert's background color, icon, and text color by customizing KKMessages.
